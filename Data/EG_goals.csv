@@ -1,0 +1,476 @@
+match_id,goal_minute,competition_name,season_name,half,home_team,away_team,scoring_team,xg,is_kickoff_team
+3890511,3,1. Bundesliga,2015/2016,1,Hertha Berlin,Hannover 96,Hertha Berlin,0.34925008,True
+3890384,2,1. Bundesliga,2015/2016,1,Borussia Dortmund,VfB Stuttgart,Borussia Dortmund,0.1640838,True
+3890282,46,1. Bundesliga,2015/2016,2,FSV Mainz 05,Hannover 96,FSV Mainz 05,0.51699793,False
+3890540,1,1. Bundesliga,2015/2016,1,Bayer Leverkusen,Hertha Berlin,Bayer Leverkusen,0.119708106,False
+3890535,0,1. Bundesliga,2015/2016,1,Wolfsburg,Augsburg,Augsburg,0.49411908,True
+3890533,47,1. Bundesliga,2015/2016,2,Hertha Berlin,Bayern Munich,Bayern Munich,0.03774275,False
+3890531,3,1. Bundesliga,2015/2016,1,FC Köln,Darmstadt 98,FC Köln,0.40188655,False
+3890527,48,1. Bundesliga,2015/2016,2,FSV Mainz 05,FC Köln,FSV Mainz 05,0.073249,False
+3890520,48,1. Bundesliga,2015/2016,2,Hannover 96,Borussia Mönchengladbach,Hannover 96,0.058244497,False
+3890518,48,1. Bundesliga,2015/2016,2,Schalke 04,Borussia Dortmund,Borussia Dortmund,0.093460746,True
+3890500,48,1. Bundesliga,2015/2016,2,VfB Stuttgart,Bayer Leverkusen,Bayer Leverkusen,0.12807426,True
+3890486,2,1. Bundesliga,2015/2016,1,Hoffenheim,Wolfsburg,Hoffenheim,0.18441215,True
+3890485,3,1. Bundesliga,2015/2016,1,Ingolstadt,VfB Stuttgart,Ingolstadt,0.026018983,False
+3890480,1,1. Bundesliga,2015/2016,1,FC Köln,Schalke 04,Schalke 04,0.7835,False
+3890473,3,1. Bundesliga,2015/2016,1,Schalke 04,Hamburger SV,Hamburger SV,0.13482182,False
+3890453,48,1. Bundesliga,2015/2016,2,Bayern Munich,Darmstadt 98,Bayern Munich,0.16318418,False
+3890439,45,1. Bundesliga,2015/2016,2,FSV Mainz 05,Schalke 04,Schalke 04,0.2094538,True
+3890438,46,1. Bundesliga,2015/2016,2,Hamburger SV,FC Köln,Hamburger SV,0.15354088,False
+3890419,3,1. Bundesliga,2015/2016,1,Schalke 04,Werder Bremen,Schalke 04,0.047144983,False
+3890418,46,1. Bundesliga,2015/2016,2,Hannover 96,Darmstadt 98,Darmstadt 98,0.9087761,True
+3890408,46,1. Bundesliga,2015/2016,2,VfB Stuttgart,Wolfsburg,VfB Stuttgart,0.14662634,False
+3890405,47,1. Bundesliga,2015/2016,2,Eintracht Frankfurt,Werder Bremen,Eintracht Frankfurt,0.37978333,True
+3890400,3,1. Bundesliga,2015/2016,1,Werder Bremen,FC Köln,Werder Bremen,0.12897424,False
+3890379,2,1. Bundesliga,2015/2016,1,Werder Bremen,Hamburger SV,Hamburger SV,0.070966125,True
+3890377,4,1. Bundesliga,2015/2016,1,Hoffenheim,Borussia Mönchengladbach,Borussia Mönchengladbach,0.35189396,True
+3890377,46,1. Bundesliga,2015/2016,2,Hoffenheim,Borussia Mönchengladbach,Hoffenheim,0.35219172,True
+3890365,46,1. Bundesliga,2015/2016,2,Borussia Dortmund,Schalke 04,Borussia Dortmund,0.11911451,True
+3890360,46,1. Bundesliga,2015/2016,2,Darmstadt 98,Hamburger SV,Darmstadt 98,0.2276816,True
+3890347,48,1. Bundesliga,2015/2016,2,Borussia Dortmund,Augsburg,Augsburg,0.11531164,False
+3890335,0,1. Bundesliga,2015/2016,1,Wolfsburg,Hoffenheim,Wolfsburg,0.55218965,True
+3890329,45,1. Bundesliga,2015/2016,2,Bayern Munich,Borussia Dortmund,Bayern Munich,0.9355235,True
+3890294,48,1. Bundesliga,2015/2016,2,Hoffenheim,Werder Bremen,Hoffenheim,0.31622493,True
+3890289,3,1. Bundesliga,2015/2016,1,Eintracht Frankfurt,FC Köln,Eintracht Frankfurt,0.07521727,True
+3890280,46,1. Bundesliga,2015/2016,2,FC Köln,Hamburger SV,Hamburger SV,0.22444215,True
+3890271,46,1. Bundesliga,2015/2016,2,Schalke 04,Darmstadt 98,Schalke 04,0.24664585,False
+3890270,0,1. Bundesliga,2015/2016,1,Hoffenheim,Bayern Munich,Hoffenheim,0.4045285,False
+3890265,47,1. Bundesliga,2015/2016,2,Augsburg,Hertha Berlin,Hertha Berlin,0.7835,False
+3890262,47,1. Bundesliga,2015/2016,2,Darmstadt 98,Hannover 96,Hannover 96,0.24387507,True
+3922242,3,African Cup of Nations,2023,1,Senegal,Côte d'Ivoire,Senegal,0.07703587,True
+3922244,46,African Cup of Nations,2023,2,Mali,Burkina Faso,Mali,0.12298096,False
+3920385,1,African Cup of Nations,2023,1,Egypt,Mozambique,Egypt,0.10229805,True
+3920397,45,African Cup of Nations,2023,2,Equatorial Guinea,Guinea-Bissau,Equatorial Guinea,0.15143515,True
+3920388,3,African Cup of Nations,2023,1,Senegal,Gambia,Senegal,0.14239706,True
+3920384,3,African Cup of Nations,2023,1,Côte d'Ivoire,Guinea-Bissau,Côte d'Ivoire,0.0564262,False
+3939986,46,Copa America,2024,2,Argentina,Peru,Argentina,0.343117,False
+3939992,2,Copa America,2024,1,Costa Rica,Paraguay,Costa Rica,0.23077281,True
+3939987,48,Copa America,2024,2,Jamaica,Venezuela,Venezuela,0.2765872,True
+3939983,47,Copa America,2024,2,Paraguay,Brazil,Paraguay,0.022854283,False
+3939974,2,Copa America,2024,1,United States,Bolivia,United States,0.026685437,False
+3939969,48,Copa America,2024,2,Argentina,Canada,Argentina,0.28057104,True
+3775570,47,FA Women's Super League,2020/2021,2,Brighton & Hove Albion WFC,Everton LFC,Everton LFC,0.76919216,False
+3775622,47,FA Women's Super League,2020/2021,2,Manchester United,Tottenham Hotspur Women,Manchester United,0.7835,False
+3775643,45,FA Women's Super League,2020/2021,2,West Ham United LFC,Birmingham City WFC,West Ham United LFC,0.19366392,True
+3764237,4,FA Women's Super League,2020/2021,1,Birmingham City WFC,Manchester United,Manchester United,0.08903759,True
+3764237,46,FA Women's Super League,2020/2021,2,Birmingham City WFC,Manchester United,Manchester United,0.32101402,False
+3775594,45,FA Women's Super League,2020/2021,2,Manchester United,Birmingham City WFC,Manchester United,0.4895932,False
+3775593,1,FA Women's Super League,2020/2021,1,Chelsea FCW,Reading WFC,Chelsea FCW,0.054482013,True
+3775559,3,FA Women's Super League,2020/2021,1,Arsenal WFC,Everton LFC,Arsenal WFC,0.48830628,False
+3775543,47,FA Women's Super League,2020/2021,2,Brighton & Hove Albion WFC,Arsenal WFC,Arsenal WFC,0.139064,True
+3775569,3,FA Women's Super League,2020/2021,1,Bristol City WFC,Arsenal WFC,Arsenal WFC,0.12898405,False
+3775548,47,FA Women's Super League,2020/2021,2,Chelsea FCW,Arsenal WFC,Chelsea FCW,0.038501207,False
+3775586,3,FA Women's Super League,2020/2021,1,Arsenal WFC,Tottenham Hotspur Women,Arsenal WFC,0.009035671,False
+3775591,46,FA Women's Super League,2020/2021,2,West Ham United LFC,Chelsea FCW,Chelsea FCW,0.38527435,True
+3775571,2,FA Women's Super League,2020/2021,1,Aston Villa,Reading WFC,Reading WFC,0.6401367,True
+3775628,48,FA Women's Super League,2020/2021,2,Manchester United,West Ham United LFC,Manchester United,0.4476881,False
+3775626,1,FA Women's Super League,2020/2021,1,Manchester City WFC,Aston Villa,Manchester City WFC,0.42302936,False
+3775625,47,FA Women's Super League,2020/2021,2,Manchester City WFC,Bristol City WFC,Manchester City WFC,0.46942222,True
+3775650,46,FA Women's Super League,2020/2021,2,Chelsea FCW,West Ham United LFC,West Ham United LFC,0.4909198,False
+3775659,2,FA Women's Super League,2020/2021,1,Reading WFC,Manchester City WFC,Reading WFC,0.120891236,True
+3775646,2,FA Women's Super League,2020/2021,1,Aston Villa,Chelsea FCW,Chelsea FCW,0.06928236,False
+3775655,48,FA Women's Super League,2020/2021,2,West Ham United LFC,Bristol City WFC,West Ham United LFC,0.18878967,True
+3775546,2,FA Women's Super League,2020/2021,1,Tottenham Hotspur Women,Bristol City WFC,Tottenham Hotspur Women,0.06449303,False
+3775595,2,FA Women's Super League,2020/2021,1,Bristol City WFC,Brighton & Hove Albion WFC,Bristol City WFC,0.010223568,True
+3775583,2,FA Women's Super League,2020/2021,1,Manchester City WFC,Arsenal WFC,Arsenal WFC,0.05295375,True
+3775542,3,FA Women's Super League,2020/2021,1,Everton LFC,Bristol City WFC,Everton LFC,0.28529772,False
+2275136,47,FA Women's Super League,2019/2020,2,Manchester City WFC,Manchester United,Manchester City WFC,0.019633988,True
+2275150,0,FA Women's Super League,2019/2020,1,West Ham United LFC,Manchester United,Manchester United,0.16906805,True
+2275150,2,FA Women's Super League,2019/2020,1,West Ham United LFC,Manchester United,West Ham United LFC,0.15838906,False
+2275146,3,FA Women's Super League,2019/2020,1,Manchester United,Everton LFC,Manchester United,0.25440297,False
+2275085,1,FA Women's Super League,2019/2020,1,Tottenham Hotspur Women,Manchester City WFC,Manchester City WFC,0.3666022,True
+2275085,4,FA Women's Super League,2019/2020,1,Tottenham Hotspur Women,Manchester City WFC,Manchester City WFC,0.05564681,True
+2275092,0,FA Women's Super League,2019/2020,1,Birmingham City WFC,Manchester City WFC,Manchester City WFC,0.41188952,True
+2275122,46,FA Women's Super League,2019/2020,2,Reading WFC,Bristol City WFC,Reading WFC,0.16258322,True
+2275122,48,FA Women's Super League,2019/2020,2,Reading WFC,Bristol City WFC,Bristol City WFC,0.61789984,False
+2275093,1,FA Women's Super League,2019/2020,1,Birmingham City WFC,Chelsea FCW,Chelsea FCW,0.06844696,True
+2275093,47,FA Women's Super League,2019/2020,2,Birmingham City WFC,Chelsea FCW,Chelsea FCW,0.41810954,False
+2275097,2,FA Women's Super League,2019/2020,1,Manchester City WFC,Brighton & Hove Albion WFC,Manchester City WFC,0.12358177,True
+2275037,48,FA Women's Super League,2019/2020,2,Manchester City WFC,Arsenal WFC,Manchester City WFC,0.090350024,True
+2275098,2,FA Women's Super League,2019/2020,1,Brighton & Hove Albion WFC,Arsenal WFC,Arsenal WFC,0.12679422,False
+2275108,2,FA Women's Super League,2019/2020,1,Bristol City WFC,Chelsea FCW,Chelsea FCW,0.15813155,True
+2275049,3,FA Women's Super League,2019/2020,1,West Ham United LFC,Reading WFC,West Ham United LFC,0.065754496,True
+2275132,3,FA Women's Super League,2019/2020,1,Chelsea FCW,Tottenham Hotspur Women,Chelsea FCW,0.033613637,True
+2275106,1,FA Women's Super League,2019/2020,1,Manchester City WFC,Bristol City WFC,Manchester City WFC,0.06695969,False
+2275028,47,FA Women's Super League,2019/2020,2,Manchester City WFC,Birmingham City WFC,Manchester City WFC,0.27335244,True
+19772,48,FA Women's Super League,2018/2019,2,Chelsea FCW,Reading WFC,Chelsea FCW,0.1383416,False
+7298,48,FA Women's Super League,2018/2019,2,Manchester City WFC,Chelsea FCW,Manchester City WFC,0.25981876,True
+19794,1,FA Women's Super League,2018/2019,1,Chelsea FCW,Bristol City WFC,Chelsea FCW,0.19132055,False
+19734,2,FA Women's Super League,2018/2019,1,Everton LFC,Brighton & Hove Albion WFC,Brighton & Hove Albion WFC,0.027966648,True
+19718,0,FA Women's Super League,2018/2019,1,Birmingham City WFC,Everton LFC,Birmingham City WFC,0.09221535,True
+19811,3,FA Women's Super League,2018/2019,1,Arsenal WFC,Everton LFC,Arsenal WFC,0.117022485,True
+19733,48,FA Women's Super League,2018/2019,2,Birmingham City WFC,Manchester City WFC,Birmingham City WFC,0.11666171,True
+19765,2,FA Women's Super League,2018/2019,1,Liverpool WFC,Birmingham City WFC,Birmingham City WFC,0.3016244,True
+19792,45,FA Women's Super League,2018/2019,2,Bristol City WFC,Yeovil Town LFC,Yeovil Town LFC,0.33504722,True
+19735,1,FA Women's Super League,2018/2019,1,Manchester City WFC,West Ham United LFC,Manchester City WFC,0.031074604,False
+19759,48,FA Women's Super League,2018/2019,2,Everton LFC,Arsenal WFC,Arsenal WFC,0.3079839,True
+19759,49,FA Women's Super League,2018/2019,2,Everton LFC,Arsenal WFC,Arsenal WFC,0.21917944,True
+19790,2,FA Women's Super League,2018/2019,1,Manchester City WFC,Brighton & Hove Albion WFC,Manchester City WFC,0.7835,True
+19793,48,FA Women's Super League,2018/2019,2,Liverpool WFC,West Ham United LFC,Liverpool WFC,0.6171103,False
+19791,1,FA Women's Super League,2018/2019,1,Reading WFC,Arsenal WFC,Arsenal WFC,0.10277202,False
+19780,48,FA Women's Super League,2018/2019,2,Liverpool WFC,Brighton & Hove Albion WFC,Brighton & Hove Albion WFC,0.20983464,True
+19798,46,FA Women's Super League,2018/2019,2,Manchester City WFC,Everton LFC,Manchester City WFC,0.17203137,False
+19809,48,FA Women's Super League,2018/2019,2,Reading WFC,Brighton & Hove Albion WFC,Reading WFC,0.08826195,True
+19818,0,FA Women's Super League,2018/2019,1,Manchester City WFC,Yeovil Town LFC,Yeovil Town LFC,0.11034166,False
+19801,3,FA Women's Super League,2018/2019,1,Reading WFC,Manchester City WFC,Reading WFC,0.4636114,True
+19741,2,FA Women's Super League,2018/2019,1,Arsenal WFC,Reading WFC,Arsenal WFC,0.14567278,False
+19741,48,FA Women's Super League,2018/2019,2,Arsenal WFC,Reading WFC,Arsenal WFC,0.17337336,True
+3857256,47,FIFA World Cup,2022,2,Serbia,Switzerland,Switzerland,0.15381548,False
+3857260,46,FIFA World Cup,2022,2,Saudi Arabia,Mexico,Mexico,0.28809994,False
+3857264,45,FIFA World Cup,2022,2,Poland,Argentina,Argentina,0.107545994,True
+3857294,48,FIFA World Cup,2022,2,Netherlands,Qatar,Netherlands,0.6883914,False
+3857301,47,FIFA World Cup,2022,2,Qatar,Senegal,Senegal,0.038498666,True
+3857300,47,FIFA World Cup,2022,2,Argentina,Saudi Arabia,Saudi Arabia,0.080592275,False
+3857290,47,FIFA World Cup,2022,2,Switzerland,Cameroon,Switzerland,0.55189455,False
+3857281,1,FIFA World Cup,2022,1,Croatia,Canada,Canada,0.08130363,False
+3857276,3,FIFA World Cup,2022,1,Canada,Morocco,Morocco,0.024477394,True
+3857274,48,FIFA World Cup,2022,2,Netherlands,Ecuador,Ecuador,0.790909,False
+3857255,47,FIFA World Cup,2022,2,Japan,Spain,Japan,0.027777622,True
+7585,92,FIFA World Cup,2018,2,Colombia,England,Colombia,0.1694467,False
+7542,3,FIFA World Cup,2018,1,Portugal,Morocco,Portugal,0.18227948,False
+7536,46,FIFA World Cup,2018,2,Belgium,Panama,Belgium,0.009998361,True
+7576,3,FIFA World Cup,2018,1,Portugal,Spain,Portugal,0.7835,False
+7551,47,FIFA World Cup,2018,2,Germany,Sweden,Germany,0.16725664,True
+7580,47,FIFA World Cup,2018,2,France,Argentina,Argentina,0.28001544,True
+7581,0,FIFA World Cup,2018,1,Croatia,Denmark,Denmark,0.12611686,True
+7581,3,FIFA World Cup,2018,1,Croatia,Denmark,Croatia,0.26349646,False
+7549,48,FIFA World Cup,2018,2,Nigeria,Iceland,Nigeria,0.13957413,False
+7584,47,FIFA World Cup,2018,2,Belgium,Japan,Japan,0.07330411,True
+8657,3,FIFA World Cup,2018,1,Belgium,England,Belgium,0.31685346,True
+3817870,48,Indian Super league,2021/2022,2,Goa,Kerala Blasters,Goa,0.5927845,True
+3817872,48,Indian Super league,2021/2022,2,Bengaluru,Odisha,Bengaluru,0.7835,False
+3817900,45,Indian Super league,2021/2022,2,Chennaiyin,Jamshedpur,Jamshedpur,0.10425395,False
+3817880,1,Indian Super league,2021/2022,1,Odisha,Chennaiyin,Chennaiyin,0.38153303,False
+3817902,48,Indian Super league,2021/2022,2,Kerala Blasters,East Bengal,Kerala Blasters,0.059658397,False
+3817862,46,Indian Super league,2021/2022,2,Mumbai City,Odisha,Mumbai City,0.016550709,True
+3817881,47,Indian Super league,2021/2022,2,Jamshedpur,Kerala Blasters,Jamshedpur,0.7835,False
+3817883,0,Indian Super league,2021/2022,1,Bengaluru,Jamshedpur,Jamshedpur,0.4674364,False
+3817871,2,Indian Super league,2021/2022,1,NorthEast United,Hyderabad,Hyderabad,0.5195184,True
+3817875,48,Indian Super league,2021/2022,2,Jamshedpur,Goa,Jamshedpur,0.129187,True
+3817890,1,Indian Super league,2021/2022,1,Goa,NorthEast United,NorthEast United,0.0075449734,True
+3813302,3,Indian Super league,2021/2022,1,Jamshedpur,NorthEast United,NorthEast United,0.31401712,False
+3813306,1,Indian Super league,2021/2022,1,NorthEast United,ATK Mohun Bagan,NorthEast United,0.09943372,False
+3813283,3,Indian Super league,2021/2022,1,Chennaiyin,Bengaluru,Chennaiyin,0.17922108,False
+3813283,48,Indian Super league,2021/2022,2,Chennaiyin,Bengaluru,Chennaiyin,0.091040425,True
+3813282,46,Indian Super league,2021/2022,2,Mumbai City,Kerala Blasters,Kerala Blasters,0.08625331,True
+3813269,2,Indian Super league,2021/2022,1,Odisha,Jamshedpur,Jamshedpur,0.091917455,False
+3813269,3,Indian Super league,2021/2022,1,Odisha,Jamshedpur,Jamshedpur,0.041702848,False
+3817848,2,Indian Super league,2021/2022,1,Goa,ATK Mohun Bagan,ATK Mohun Bagan,0.0374914,True
+3817848,45,Indian Super league,2021/2022,2,Goa,ATK Mohun Bagan,ATK Mohun Bagan,0.65483356,False
+3813314,1,Indian Super league,2021/2022,1,ATK Mohun Bagan,Kerala Blasters,ATK Mohun Bagan,0.0100472355,True
+3813314,49,Indian Super league,2021/2022,2,ATK Mohun Bagan,Kerala Blasters,ATK Mohun Bagan,0.020765888,False
+3813312,3,Indian Super league,2021/2022,1,ATK Mohun Bagan,Mumbai City,Mumbai City,0.08972641,False
+3813312,46,Indian Super league,2021/2022,2,ATK Mohun Bagan,Mumbai City,Mumbai City,0.09197221,True
+3813289,2,Indian Super league,2021/2022,1,Odisha,Bengaluru,Odisha,0.016881144,True
+3813284,2,Indian Super league,2021/2022,1,Mumbai City,Jamshedpur,Mumbai City,0.014480962,True
+3813284,47,Indian Super league,2021/2022,2,Mumbai City,Jamshedpur,Jamshedpur,0.06350277,True
+3813273,2,Indian Super league,2021/2022,1,Odisha,Mumbai City,Odisha,0.074366346,True
+3813264,0,Indian Super league,2021/2022,1,ATK Mohun Bagan,Hyderabad,ATK Mohun Bagan,0.03321327,True
+3825848,47,La Liga,2015/2016,2,Levante UD,Eibar,Eibar,0.11685529,False
+3825860,1,La Liga,2015/2016,1,Levante UD,Atlético Madrid,Atlético Madrid,0.30933404,False
+3825871,48,La Liga,2015/2016,2,Las Palmas,Espanyol,Las Palmas,0.09646778,False
+3825863,46,La Liga,2015/2016,2,RC Deportivo La Coruña,Las Palmas,RC Deportivo La Coruña,0.500879,True
+3825823,1,La Liga,2015/2016,1,Sevilla,Real Sociedad,Real Sociedad,0.05132001,True
+3825822,2,La Liga,2015/2016,1,Las Palmas,Valencia,Valencia,0.8999992,True
+3825822,49,La Liga,2015/2016,2,Las Palmas,Valencia,Las Palmas,0.7835,True
+3825799,49,La Liga,2015/2016,2,Málaga,Valencia,Valencia,0.26349908,False
+3825796,48,La Liga,2015/2016,2,Las Palmas,Getafe,Las Palmas,0.49467146,True
+3825795,45,La Liga,2015/2016,2,Atlético Madrid,Real Sociedad,Atlético Madrid,0.084600024,True
+3825794,47,La Liga,2015/2016,2,Villarreal,Levante UD,Villarreal,0.33874747,True
+3825791,47,La Liga,2015/2016,2,Real Betis,Rayo Vallecano,Rayo Vallecano,0.19772242,False
+3825790,47,La Liga,2015/2016,2,Sporting Gijón,Espanyol,Espanyol,0.47219685,False
+3825770,2,La Liga,2015/2016,1,Real Madrid,Athletic Club,Real Madrid,0.12688906,True
+3825643,3,La Liga,2015/2016,1,Real Madrid,Las Palmas,Real Madrid,0.42645687,True
+3825572,1,La Liga,2015/2016,1,Real Madrid,Real Betis,Real Madrid,0.24705191,False
+3825572,46,La Liga,2015/2016,2,Real Madrid,Real Betis,Real Madrid,0.37434304,True
+3825572,49,La Liga,2015/2016,2,Real Madrid,Real Betis,Real Madrid,0.21882027,True
+3825774,1,La Liga,2015/2016,1,Getafe,Atlético Madrid,Atlético Madrid,0.65064687,True
+3825700,2,La Liga,2015/2016,1,Real Madrid,Rayo Vallecano,Real Madrid,0.11100066,True
+3825700,47,La Liga,2015/2016,2,Real Madrid,Rayo Vallecano,Real Madrid,0.28687307,False
+3825688,45,La Liga,2015/2016,2,Getafe,Real Sociedad,Getafe,0.08578762,True
+3825683,3,La Liga,2015/2016,1,Real Sociedad,Eibar,Eibar,0.40652338,True
+3825681,3,La Liga,2015/2016,1,Real Madrid,Getafe,Real Madrid,0.43958077,False
+3825675,0,La Liga,2015/2016,1,Rayo Vallecano,Athletic Club,Athletic Club,0.30277362,False
+3825674,2,La Liga,2015/2016,1,Atlético Madrid,Espanyol,Atlético Madrid,0.06826506,False
+3825670,3,La Liga,2015/2016,1,Levante UD,Real Betis,Real Betis,0.055955414,True
+3825626,3,La Liga,2015/2016,1,Real Betis,Espanyol,Espanyol,0.059610553,False
+3825616,3,La Liga,2015/2016,1,Málaga,Real Sociedad,Málaga,0.12320166,False
+3825608,2,La Liga,2015/2016,1,Eibar,Celta Vigo,Eibar,0.5930534,False
+3825601,47,La Liga,2015/2016,2,Rayo Vallecano,Sporting Gijón,Rayo Vallecano,0.6883119,False
+3825601,48,La Liga,2015/2016,2,Rayo Vallecano,Sporting Gijón,Sporting Gijón,0.3666314,True
+3825899,47,La Liga,2015/2016,2,Getafe,Valencia,Valencia,0.05087416,True
+3825852,2,La Liga,2015/2016,1,Las Palmas,Sporting Gijón,Las Palmas,0.10177168,False
+3825852,47,La Liga,2015/2016,2,Las Palmas,Sporting Gijón,Sporting Gijón,0.18478537,False
+3825637,47,La Liga,2015/2016,2,Barcelona,Eibar,Barcelona,0.2955752,False
+3825628,2,La Liga,2015/2016,1,Getafe,Las Palmas,Getafe,0.7596085,True
+3825611,46,La Liga,2015/2016,2,RC Deportivo La Coruña,Espanyol,RC Deportivo La Coruña,0.9578172,True
+3825598,3,La Liga,2015/2016,1,Atlético Madrid,Getafe,Atlético Madrid,0.081994966,True
+3825584,48,La Liga,2015/2016,2,Granada,Villarreal,Villarreal,0.09353596,True
+3825859,2,La Liga,2015/2016,1,Granada,Las Palmas,Las Palmas,0.03835872,True
+3825655,2,La Liga,2015/2016,1,Rayo Vallecano,Granada,Rayo Vallecano,0.44939902,False
+3825654,45,La Liga,2015/2016,2,Celta Vigo,Valencia,Valencia,0.5832797,False
+3825766,48,La Liga,2015/2016,2,Real Betis,Valencia,Real Betis,0.62372565,False
+3825760,45,La Liga,2015/2016,2,Atlético Madrid,Eibar,Eibar,0.15778422,True
+3825763,2,La Liga,2015/2016,1,Rayo Vallecano,Las Palmas,Rayo Vallecano,0.80918306,True
+3825758,45,La Liga,2015/2016,2,RC Deportivo La Coruña,Rayo Vallecano,RC Deportivo La Coruña,0.026793852,True
+3825756,0,La Liga,2015/2016,1,Sevilla,Levante UD,Sevilla,0.2659651,False
+3825756,46,La Liga,2015/2016,2,Sevilla,Levante UD,Sevilla,0.77443796,True
+3825749,46,La Liga,2015/2016,2,Levante UD,Las Palmas,Levante UD,0.081170924,True
+3825749,48,La Liga,2015/2016,2,Levante UD,Las Palmas,Las Palmas,0.11774002,False
+3825747,3,La Liga,2015/2016,1,Athletic Club,Eibar,Eibar,0.59366953,False
+3825747,49,La Liga,2015/2016,2,Athletic Club,Eibar,Eibar,0.7835,True
+3825744,3,La Liga,2015/2016,1,Espanyol,Villarreal,Espanyol,0.21283269,True
+3825741,0,La Liga,2015/2016,1,Sporting Gijón,Real Sociedad,Sporting Gijón,0.91363096,True
+3825728,48,La Liga,2015/2016,2,Celta Vigo,Atlético Madrid,Atlético Madrid,0.7368112,True
+3825724,48,La Liga,2015/2016,2,Real Madrid,RC Deportivo La Coruña,Real Madrid,0.07752877,True
+3825720,2,La Liga,2015/2016,1,Real Betis,Eibar,Eibar,0.05714929,False
+3825721,47,La Liga,2015/2016,2,RC Deportivo La Coruña,Villarreal,RC Deportivo La Coruña,0.40012032,False
+3825710,48,La Liga,2015/2016,2,Real Madrid,Real Sociedad,Real Sociedad,0.068163544,True
+3825634,2,La Liga,2015/2016,1,Granada,Real Betis,Granada,0.6858591,False
+3825610,45,La Liga,2015/2016,2,Sporting Gijón,Real Betis,Real Betis,0.33356053,True
+3825596,3,La Liga,2015/2016,1,RC Deportivo La Coruña,Sporting Gijón,Sporting Gijón,0.39124355,False
+3825589,1,La Liga,2015/2016,1,Getafe,Málaga,Getafe,0.18883656,True
+3825585,47,La Liga,2015/2016,2,Celta Vigo,Las Palmas,Celta Vigo,0.43397257,True
+3825565,2,La Liga,2015/2016,1,Espanyol,Getafe,Espanyol,0.08732043,True
+266310,46,La Liga,2015/2016,2,RC Deportivo La Coruña,Barcelona,Barcelona,0.26528195,True
+265894,1,La Liga,2015/2016,1,Málaga,Barcelona,Barcelona,0.9133661,True
+266149,46,La Liga,2015/2016,2,Barcelona,Athletic Club,Barcelona,0.43869242,True
+267327,45,La Liga,2015/2016,2,Barcelona,Real Betis,Barcelona,0.27001652,True
+265839,47,La Liga,2015/2016,2,Barcelona,Sevilla,Barcelona,0.60040843,False
+3901178,45,Ligue 1,2015/2016,2,Lorient,Marseille,Marseille,0.06578606,True
+3829470,46,Ligue 1,2015/2016,2,Saint-Étienne,Nantes,Saint-Étienne,0.18348692,True
+3900594,0,Ligue 1,2015/2016,1,Nantes,Bordeaux,Nantes,0.35750392,False
+3901184,3,Ligue 1,2015/2016,1,Marseille,Rennes,Rennes,0.24455975,True
+3901184,49,Ligue 1,2015/2016,2,Marseille,Rennes,Marseille,0.25896657,True
+3901182,48,Ligue 1,2015/2016,2,Nantes,Angers,Nantes,0.21659611,False
+3901170,0,Ligue 1,2015/2016,1,Rennes,Nantes,Rennes,0.05013317,True
+3901258,1,Ligue 1,2015/2016,1,Guingamp,OGC Nice,OGC Nice,0.038423393,False
+3901256,2,Ligue 1,2015/2016,1,AS Monaco,Montpellier,AS Monaco,0.3726278,False
+3901252,2,Ligue 1,2015/2016,1,Lyon,AS Monaco,Lyon,0.18910539,True
+3901247,48,Ligue 1,2015/2016,2,Gazélec Ajaccio,Paris Saint-Germain,Paris Saint-Germain,0.18566726,True
+3901245,47,Ligue 1,2015/2016,2,Bordeaux,Lorient,Bordeaux,0.19624616,False
+3901235,48,Ligue 1,2015/2016,2,Lyon,Gazélec Ajaccio,Gazélec Ajaccio,0.121377856,False
+3901227,48,Ligue 1,2015/2016,2,Marseille,Nantes,Marseille,0.46943614,True
+3901223,46,Ligue 1,2015/2016,2,AS Monaco,Marseille,AS Monaco,0.08273062,False
+3901219,48,Ligue 1,2015/2016,2,Lorient,Toulouse,Toulouse,0.3620365,False
+3901216,48,Ligue 1,2015/2016,2,Paris Saint-Germain,Caen,Paris Saint-Germain,0.6517175,False
+3901205,46,Ligue 1,2015/2016,2,Caen,Lorient,Lorient,0.7835,True
+3901197,4,Ligue 1,2015/2016,1,Guingamp,Montpellier,Guingamp,0.060844988,False
+3901197,46,Ligue 1,2015/2016,2,Guingamp,Montpellier,Guingamp,0.12995425,True
+3901196,47,Ligue 1,2015/2016,2,Paris Saint-Germain,OGC Nice,Paris Saint-Germain,0.16208136,True
+3901183,45,Ligue 1,2015/2016,2,Troyes,Paris Saint-Germain,Paris Saint-Germain,0.081658065,False
+3901171,2,Ligue 1,2015/2016,1,Lyon,Guingamp,Lyon,0.75671595,False
+3901154,2,Ligue 1,2015/2016,1,Troyes,Lorient,Lorient,0.5570763,False
+3901148,2,Ligue 1,2015/2016,1,Lorient,Guingamp,Guingamp,0.057886455,True
+3901148,47,Ligue 1,2015/2016,2,Lorient,Guingamp,Lorient,0.23808962,True
+3901148,48,Ligue 1,2015/2016,2,Lorient,Guingamp,Lorient,0.43221334,True
+3901145,1,Ligue 1,2015/2016,1,Angers,Montpellier,Montpellier,0.02109722,False
+3829519,47,Ligue 1,2015/2016,2,Paris Saint-Germain,Saint-Étienne,Paris Saint-Germain,0.23159935,True
+3900633,0,Ligue 1,2015/2016,1,Gazélec Ajaccio,Troyes,Gazélec Ajaccio,0.17640974,True
+3900627,3,Ligue 1,2015/2016,1,Bordeaux,Saint-Étienne,Saint-Étienne,0.49919668,False
+3900624,45,Ligue 1,2015/2016,2,Angers,Lyon,Lyon,0.027079985,False
+3900586,2,Ligue 1,2015/2016,1,Guingamp,Nantes,Guingamp,0.37181067,True
+3900584,47,Ligue 1,2015/2016,2,Bastia,Montpellier,Bastia,0.2352269,True
+3900582,1,Ligue 1,2015/2016,1,Gazélec Ajaccio,Stade de Reims,Gazélec Ajaccio,0.2885892,True
+3900547,47,Ligue 1,2015/2016,2,Marseille,Montpellier,Marseille,0.19706342,False
+3900544,46,Ligue 1,2015/2016,2,Toulouse,Lorient,Lorient,0.26820597,True
+3900544,47,Ligue 1,2015/2016,2,Toulouse,Lorient,Lorient,0.022011714,True
+3900537,1,Ligue 1,2015/2016,1,Troyes,Toulouse,Toulouse,0.26246217,True
+3900537,48,Ligue 1,2015/2016,2,Troyes,Toulouse,Toulouse,0.07236808,False
+3829469,46,Ligue 1,2015/2016,2,AS Monaco,Lorient,AS Monaco,0.084180936,True
+3900629,1,Ligue 1,2015/2016,1,Marseille,Paris Saint-Germain,Paris Saint-Germain,0.40923873,True
+3900623,48,Ligue 1,2015/2016,2,Lorient,Montpellier,Lorient,0.19402751,True
+3900612,4,Ligue 1,2015/2016,1,Guingamp,Troyes,Guingamp,0.26641098,False
+3900612,45,Ligue 1,2015/2016,2,Guingamp,Troyes,Guingamp,0.028084198,True
+3900543,46,Ligue 1,2015/2016,2,Stade de Reims,Troyes,Troyes,0.06887676,False
+3900520,47,Ligue 1,2015/2016,2,Lyon,Montpellier,Montpellier,0.54008365,False
+3900508,47,Ligue 1,2015/2016,2,Bordeaux,AS Monaco,Bordeaux,0.084167756,True
+3900500,3,Ligue 1,2015/2016,1,Angers,Rennes,Rennes,0.13335635,False
+3900492,0,Ligue 1,2015/2016,1,Guingamp,Lorient,Guingamp,0.06358366,True
+3829517,0,Ligue 1,2015/2016,1,Gazélec Ajaccio,OGC Nice,Gazélec Ajaccio,0.016087946,True
+3829498,46,Ligue 1,2015/2016,2,Lorient,Bordeaux,Lorient,0.32690504,True
+3829489,47,Ligue 1,2015/2016,2,Montpellier,Lorient,Lorient,0.023832168,False
+3829483,47,Ligue 1,2015/2016,2,Nantes,Paris Saint-Germain,Paris Saint-Germain,0.5237891,False
+3829463,48,Ligue 1,2015/2016,2,Rennes,Lille,Lille,0.07020613,True
+3829461,45,Ligue 1,2015/2016,2,Marseille,Bastia,Marseille,0.30891854,True
+3829456,45,Ligue 1,2015/2016,2,Lorient,Angers,Lorient,0.041104306,False
+3829448,47,Ligue 1,2015/2016,2,Stade de Reims,Lorient,Lorient,0.029639814,False
+3829441,46,Ligue 1,2015/2016,2,Marseille,Troyes,Marseille,0.02711139,True
+3829437,1,Ligue 1,2015/2016,1,Gazélec Ajaccio,Angers,Angers,0.16068816,False
+3829431,3,Ligue 1,2015/2016,1,Lorient,Bastia,Bastia,0.5624365,True
+3829427,2,Ligue 1,2015/2016,1,Troyes,OGC Nice,Troyes,0.117888525,True
+3829419,3,Ligue 1,2015/2016,1,Montpellier,Angers,Angers,0.20714463,True
+3754043,0,Premier League,2015/2016,1,Tottenham Hotspur,AFC Bournemouth,Tottenham Hotspur,0.12888715,True
+3754053,47,Premier League,2015/2016,2,Aston Villa,Tottenham Hotspur,Tottenham Hotspur,0.38976985,False
+3754226,45,Premier League,2015/2016,2,Sunderland,Liverpool,Liverpool,0.37774515,True
+3753983,48,Premier League,2015/2016,2,Swansea City,Arsenal,Arsenal,0.12239959,False
+3754008,45,Premier League,2015/2016,2,Manchester United,Sunderland,Manchester United,0.58932877,True
+3754029,2,Premier League,2015/2016,1,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,0.18317896,True
+3753984,2,Premier League,2015/2016,1,Liverpool,West Ham United,West Ham United,0.19753946,False
+3754028,48,Premier League,2015/2016,2,Manchester City,Southampton,Southampton,0.12714534,False
+3754040,47,Premier League,2015/2016,2,Liverpool,Norwich City,Liverpool,0.1679432,True
+3754079,48,Premier League,2015/2016,2,Manchester City,Newcastle United,Manchester City,0.09773627,True
+3754079,49,Premier League,2015/2016,2,Manchester City,Newcastle United,Manchester City,0.50991577,True
+3754051,2,Premier League,2015/2016,1,Watford,Liverpool,Watford,0.947351,True
+3754072,3,Premier League,2015/2016,1,Sunderland,Watford,Watford,0.21448,False
+3754098,3,Premier League,2015/2016,1,Chelsea,Liverpool,Chelsea,0.09733244,False
+3754112,47,Premier League,2015/2016,2,Newcastle United,Southampton,Newcastle United,0.096518055,True
+3754169,3,Premier League,2015/2016,1,AFC Bournemouth,Sunderland,AFC Bournemouth,0.06787996,False
+3754162,1,Premier League,2015/2016,1,AFC Bournemouth,Manchester United,AFC Bournemouth,0.00018,False
+3754133,45,Premier League,2015/2016,2,Norwich City,West Bromwich Albion,West Bromwich Albion,0.1838684,True
+3754221,47,Premier League,2015/2016,2,Swansea City,Manchester United,Manchester United,0.11363337,False
+3754212,1,Premier League,2015/2016,1,Liverpool,Aston Villa,Liverpool,0.05543656,True
+3754269,3,Premier League,2015/2016,1,Swansea City,Stoke City,Stoke City,0.7835,False
+3754234,0,Premier League,2015/2016,1,AFC Bournemouth,Tottenham Hotspur,AFC Bournemouth,0.06819645,True
+3754246,46,Premier League,2015/2016,2,Manchester City,Watford,Manchester City,0.34917516,True
+3754273,47,Premier League,2015/2016,2,Watford,West Ham United,Watford,0.13420734,True
+3754335,46,Premier League,2015/2016,2,Norwich City,Leicester City,Leicester City,0.21692438,False
+3754304,46,Premier League,2015/2016,2,Crystal Palace,Newcastle United,Crystal Palace,0.4464118,False
+3754329,47,Premier League,2015/2016,2,West Ham United,Newcastle United,West Ham United,0.25175706,True
+3754013,47,Premier League,2015/2016,2,Leicester City,Chelsea,Leicester City,0.0463639,True
+3754182,46,Premier League,2015/2016,2,Norwich City,Everton,Norwich City,0.75632274,False
+3754003,48,Premier League,2015/2016,2,Manchester United,Liverpool,Manchester United,0.062421467,True
+3754131,47,Premier League,2015/2016,2,West Ham United,AFC Bournemouth,West Ham United,0.7835,True
+3754138,48,Premier League,2015/2016,2,Norwich City,Crystal Palace,Crystal Palace,0.27339634,True
+3754016,3,Premier League,2015/2016,1,Southampton,Newcastle United,Southampton,0.4781576,True
+3754026,46,Premier League,2015/2016,2,Crystal Palace,Stoke City,Crystal Palace,0.30303675,True
+3754031,2,Premier League,2015/2016,1,Sunderland,Manchester United,Sunderland,0.0069796513,True
+3754032,48,Premier League,2015/2016,2,Stoke City,Norwich City,Stoke City,0.41785574,False
+3754063,47,Premier League,2015/2016,2,Watford,Aston Villa,Aston Villa,0.07929963,True
+3754071,2,Premier League,2015/2016,1,Swansea City,Sunderland,Sunderland,0.5702413,False
+3754075,45,Premier League,2015/2016,2,Aston Villa,Chelsea,Chelsea,0.1916607,True
+3754110,0,Premier League,2015/2016,1,West Ham United,Manchester City,West Ham United,0.08605482,False
+3754118,3,Premier League,2015/2016,1,Arsenal,Watford,Arsenal,0.56967413,True
+3754118,47,Premier League,2015/2016,2,Arsenal,Watford,Arsenal,0.041441783,False
+3754123,47,Premier League,2015/2016,2,Everton,Norwich City,Everton,0.60571593,True
+3754154,1,Premier League,2015/2016,1,Liverpool,Newcastle United,Liverpool,0.053044,True
+3754154,47,Premier League,2015/2016,2,Liverpool,Newcastle United,Newcastle United,0.10895903,True
+3754220,47,Premier League,2015/2016,2,Crystal Palace,Liverpool,Crystal Palace,0.06343489,True
+3754236,48,Premier League,2015/2016,2,West Bromwich Albion,Crystal Palace,Crystal Palace,0.64957875,True
+3754249,47,Premier League,2015/2016,2,Manchester City,Aston Villa,Manchester City,0.104108945,False
+3754249,49,Premier League,2015/2016,2,Manchester City,Aston Villa,Manchester City,0.61518365,False
+3754271,45,Premier League,2015/2016,2,Watford,Newcastle United,Watford,0.7475957,False
+3754280,0,Premier League,2015/2016,1,Norwich City,Chelsea,Chelsea,0.056259364,False
+3754290,2,Premier League,2015/2016,1,Manchester City,Leicester City,Leicester City,0.13685594,True
+3754290,47,Premier League,2015/2016,2,Manchester City,Leicester City,Leicester City,0.31686345,False
+3754303,46,Premier League,2015/2016,2,Swansea City,Crystal Palace,Crystal Palace,0.2917514,True
+3754308,47,Premier League,2015/2016,2,Watford,Sunderland,Watford,0.079874724,False
+3754317,1,Premier League,2015/2016,1,Norwich City,Tottenham Hotspur,Tottenham Hotspur,0.5862307,True
+3754319,46,Premier League,2015/2016,2,Manchester United,Swansea City,Manchester United,0.11421252,True
+3754338,48,Premier League,2015/2016,2,Newcastle United,West Ham United,West Ham United,0.7133282,False
+3879847,46,Serie A,2015/2016,2,Udinese,Torino,Udinese,0.056791037,False
+3879847,49,Serie A,2015/2016,2,Udinese,Torino,Torino,0.17994143,True
+3879817,3,Serie A,2015/2016,1,Inter Milan,Napoli,Inter Milan,0.45151874,True
+3879628,48,Serie A,2015/2016,2,AC Milan,Sampdoria,AC Milan,0.27856427,False
+3879653,2,Serie A,2015/2016,1,Juventus,Fiorentina,Fiorentina,0.7835,True
+3879566,46,Serie A,2015/2016,2,Udinese,Genoa,Udinese,0.81045365,True
+3879564,1,Serie A,2015/2016,1,Palermo,AS Roma,AS Roma,0.2787285,True
+3879562,47,Serie A,2015/2016,2,AC Milan,Napoli,Napoli,0.1843497,False
+3879838,2,Serie A,2015/2016,1,Sampdoria,Lazio,Lazio,0.29334763,False
+3879832,1,Serie A,2015/2016,1,Palermo,Atalanta,Palermo,0.7835,True
+3879784,3,Serie A,2015/2016,1,Genoa,Torino,Torino,0.23885296,True
+3879745,1,Serie A,2015/2016,1,Palermo,Torino,Palermo,0.30962265,False
+3879707,47,Serie A,2015/2016,2,AS Roma,Frosinone,AS Roma,0.05489006,False
+3878607,48,Serie A,2015/2016,2,AS Roma,Sassuolo,AS Roma,0.03261902,False
+3879875,47,Serie A,2015/2016,2,Palermo,Hellas Verona,Hellas Verona,0.07007846,False
+3879874,1,Serie A,2015/2016,1,Lazio,Fiorentina,Lazio,0.015814954,True
+3879865,2,Serie A,2015/2016,1,Sampdoria,Genoa,Genoa,0.48680034,False
+3879851,1,Serie A,2015/2016,1,AC Milan,Frosinone,Frosinone,0.04670997,True
+3879851,49,Serie A,2015/2016,2,AC Milan,Frosinone,AC Milan,0.9431696,True
+3879843,1,Serie A,2015/2016,1,Torino,Sassuolo,Sassuolo,0.1309202,False
+3879835,4,Serie A,2015/2016,1,Chievo,Frosinone,Frosinone,0.030161006,True
+3879835,46,Serie A,2015/2016,2,Chievo,Frosinone,Chievo,0.7835,True
+3879834,1,Serie A,2015/2016,1,Udinese,Fiorentina,Udinese,0.079110116,False
+3879819,48,Serie A,2015/2016,2,Carpi,Genoa,Carpi,0.1435448,False
+3879815,45,Serie A,2015/2016,2,Torino,Atalanta,Torino,0.36719975,True
+3879797,3,Serie A,2015/2016,1,Carpi,Sassuolo,Sassuolo,0.29331222,True
+3879790,47,Serie A,2015/2016,2,Torino,Juventus,Torino,0.7835,True
+3879775,47,Serie A,2015/2016,2,Genoa,Empoli,Genoa,0.08357918,False
+3879769,1,Serie A,2015/2016,1,Napoli,Chievo,Chievo,0.06237641,False
+3879759,46,Serie A,2015/2016,2,Juventus,Inter Milan,Juventus,0.22451563,True
+3879753,47,Serie A,2015/2016,2,Sassuolo,Empoli,Sassuolo,0.09618889,True
+3879753,49,Serie A,2015/2016,2,Sassuolo,Empoli,Sassuolo,0.22367968,True
+3879734,47,Serie A,2015/2016,2,AC Milan,Udinese,AC Milan,0.20645751,False
+3879724,1,Serie A,2015/2016,1,Fiorentina,Carpi,Fiorentina,0.08505408,False
+3879723,47,Serie A,2015/2016,2,Inter Milan,Chievo,Inter Milan,0.58494055,True
+3879698,47,Serie A,2015/2016,2,Empoli,AC Milan,AC Milan,0.34994656,True
+3879695,3,Serie A,2015/2016,1,Genoa,Palermo,Genoa,0.40205318,True
+3879694,1,Serie A,2015/2016,1,Bologna,Lazio,Bologna,0.026190571,True
+3879692,46,Serie A,2015/2016,2,Chievo,Empoli,Empoli,0.5702318,True
+3879690,3,Serie A,2015/2016,1,AC Milan,Fiorentina,AC Milan,0.07244092,True
+3879686,2,Serie A,2015/2016,1,Napoli,Sassuolo,Sassuolo,0.7835,True
+3879684,45,Serie A,2015/2016,2,Sampdoria,Juventus,Juventus,0.50562483,False
+3879676,3,Serie A,2015/2016,1,AS Roma,AC Milan,AS Roma,0.13172695,True
+3879676,49,Serie A,2015/2016,2,AS Roma,AC Milan,AC Milan,0.12844756,True
+3879666,48,Serie A,2015/2016,2,Genoa,Sampdoria,Sampdoria,0.3125442,True
+3879656,47,Serie A,2015/2016,2,Bologna,Empoli,Empoli,0.628618,False
+3879650,45,Serie A,2015/2016,2,Empoli,Carpi,Empoli,0.27269122,False
+3879635,1,Serie A,2015/2016,1,Napoli,Inter Milan,Napoli,0.12193479,False
+3879631,45,Serie A,2015/2016,2,Chievo,Udinese,Udinese,0.34596157,False
+3879629,47,Serie A,2015/2016,2,Frosinone,Hellas Verona,Frosinone,0.38638797,True
+3879592,3,Serie A,2015/2016,1,AS Roma,Udinese,AS Roma,0.23434193,False
+3879580,48,Serie A,2015/2016,2,Juventus,Atalanta,Juventus,0.6053396,False
+3879578,46,Serie A,2015/2016,2,Carpi,Bologna,Bologna,0.8017068,True
+3879572,45,Serie A,2015/2016,2,Napoli,Fiorentina,Napoli,0.08328235,True
+3879570,0,Serie A,2015/2016,1,Genoa,Chievo,Chievo,0.23435605,True
+3879554,47,Serie A,2015/2016,2,Torino,Palermo,Torino,0.033319786,True
+3879553,2,Serie A,2015/2016,1,Sassuolo,Chievo,Sassuolo,0.4456688,True
+3879550,3,Serie A,2015/2016,1,Inter Milan,Fiorentina,Fiorentina,0.7835,False
+3878604,47,Serie A,2015/2016,2,Napoli,Lazio,Napoli,0.4511877,False
+3878597,2,Serie A,2015/2016,1,Empoli,Napoli,Empoli,0.45312166,False
+3878597,49,Serie A,2015/2016,2,Empoli,Napoli,Napoli,0.418497,False
+3878596,48,Serie A,2015/2016,2,Hellas Verona,Torino,Hellas Verona,0.7835,True
+3878546,2,Serie A,2015/2016,1,Sassuolo,Napoli,Napoli,0.21719964,True
+3943043,46,UEFA Euro,2024,2,Spain,England,Spain,0.1124816,True
+3930180,46,UEFA Euro,2024,2,Netherlands,Austria,Netherlands,0.12614554,True
+3941022,0,UEFA Euro,2024,1,Austria,Turkey,Turkey,0.4581151,False
+3940878,45,UEFA Euro,2024,2,Switzerland,Italy,Switzerland,0.044832002,False
+3930161,0,UEFA Euro,2024,1,Italy,Albania,Albania,0.08619496,True
+3938644,1,UEFA Euro,2024,1,Georgia,Portugal,Georgia,0.13665316,False
+3930175,1,UEFA Euro,2024,1,Belgium,Romania,Belgium,0.056764796,True
+3788773,46,UEFA Euro,2020,2,Portugal,France,France,0.32039276,False
+3788760,46,UEFA Euro,2020,2,Croatia,Czech Republic,Croatia,0.028436225,True
+3795109,4,UEFA Euro,2020,1,Czech Republic,Denmark,Denmark,0.06463903,True
+3795109,48,UEFA Euro,2020,2,Czech Republic,Denmark,Czech Republic,0.103366256,True
+3795187,3,UEFA Euro,2020,1,Ukraine,England,England,0.3530124,False
+3795187,45,UEFA Euro,2020,2,Ukraine,England,England,0.113124244,True
+3795187,49,UEFA Euro,2020,2,Ukraine,England,England,0.21181364,True
+3795506,1,UEFA Euro,2020,1,Italy,England,England,0.15388688,False
+3794686,91,UEFA Euro,2020,2,Croatia,Spain,Croatia,0.23785056,True
+3788757,1,UEFA Euro,2020,1,Denmark,Belgium,Denmark,0.15874258,True
+3794689,47,UEFA Euro,2020,2,Wales,Denmark,Denmark,0.20926164,True
+3788749,45,UEFA Euro,2020,2,Poland,Slovakia,Poland,0.2927253,True
+3788776,1,UEFA Euro,2020,1,Sweden,Poland,Sweden,0.17685767,True
+3788744,48,UEFA Euro,2020,2,Wales,Switzerland,Switzerland,0.08820172,False
+3845506,47,UEFA Women's Euro,2022,2,England Women's,Sweden Women's,England Women's,0.03749879,False
+3835335,47,UEFA Women's Euro,2022,2,Northern Ireland,England Women's,England Women's,0.09441377,False
+3835323,1,UEFA Women's Euro,2022,1,Portugal Women's,Switzerland Women's,Switzerland Women's,0.021459144,True
+3835323,4,UEFA Women's Euro,2022,1,Portugal Women's,Switzerland Women's,Switzerland Women's,0.104610674,True
+3835320,48,UEFA Women's Euro,2022,2,Norway Women's,Northern Ireland,Northern Ireland,0.2613665,True
+3835342,0,UEFA Women's Euro,2022,1,Iceland Women's,France Women's,France Women's,0.13462496,False
+3835338,47,UEFA Women's Euro,2022,2,WNT Finland,Germany Women's,Germany Women's,0.15396634,False
+3835330,2,UEFA Women's Euro,2022,1,Germany Women's,Spain Women's,Germany Women's,0.30814907,False
+3835332,46,UEFA Women's Euro,2022,2,Netherlands Women's,Portugal Women's,Portugal Women's,0.12721564,True
+3835341,48,UEFA Women's Euro,2022,2,Italy Women's,Belgium Women's,Belgium Women's,0.071744,True
+3835334,2,UEFA Women's Euro,2022,1,Italy Women's,Iceland Women's,Iceland Women's,0.08741715,True
+3835321,0,UEFA Women's Euro,2022,1,Spain Women's,WNT Finland,WNT Finland,0.17378725,False
+3893801,47,Women's World Cup,2023,2,Brazil Women's,Panama Women's,Brazil Women's,0.19138317,True
+3902240,90,Women's World Cup,2023,2,Spain Women's,Netherlands Women's,Netherlands Women's,0.122056566,False
+3893823,2,Women's World Cup,2023,1,Costa Rica Women's,Zambia Women's,Zambia Women's,0.06434603,True
+3893823,46,Women's World Cup,2023,2,Costa Rica Women's,Zambia Women's,Costa Rica Women's,0.88035095,True
+3893807,3,Women's World Cup,2023,1,Canada Women's,Republic of Ireland Women's,Republic of Ireland Women's,0.00018,False
+3893787,47,Women's World Cup,2023,2,New Zealand Women's,Norway Women's,New Zealand Women's,0.43960825,False
+3893829,1,Women's World Cup,2023,1,Panama Women's,France Women's,Panama Women's,0.021887723,True
+3893828,3,Women's World Cup,2023,1,China PR Women's,England Women's,England Women's,0.07538022,True
+3893799,45,Women's World Cup,2023,2,Germany Women's,Morocco Women's,Germany Women's,0.06043132,False
+3893796,47,Women's World Cup,2023,2,Sweden Women's,South Africa Women's,South Africa Women's,0.7047972,True
+22964,47,Women's World Cup,2019,2,Netherlands Women's,Cameroon Women's,Netherlands Women's,0.690471,True
+22963,45,Women's World Cup,2019,2,Jamaica Women's,Italy Women's,Italy Women's,0.27041373,False
+68311,48,Women's World Cup,2019,2,Jamaica Women's,Australia Women's,Jamaica Women's,0.376099,False
+22966,47,Women's World Cup,2019,2,Canada Women's,New Zealand Women's,Canada Women's,0.1866327,True
+68345,2,Women's World Cup,2019,1,Sweden Women's,United States Women's,United States Women's,0.6330302,True
+69208,47,Women's World Cup,2019,2,Germany Women's,Sweden Women's,Sweden Women's,0.21020292,True
+22948,45,Women's World Cup,2019,2,France Women's,Norway Women's,France Women's,0.31648102,False
+68338,48,Women's World Cup,2019,2,Scotland Women's,Argentina Women's,Scotland Women's,0.24513102,True
+69191,48,Women's World Cup,2019,2,Italy Women's,China PR Women's,Italy Women's,0.038513537,True
+69199,2,Women's World Cup,2019,1,Norway Women's,England Women's,England Women's,0.263847,True
